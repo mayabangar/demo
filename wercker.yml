@@ -28,3 +28,4 @@ deploy:
         repository: abhisalvi/hello-world
         registry: https://registry.hub.docker.com
         entrypoint: "/pipeline/source/app/docker_entrypoint.sh"
+        
